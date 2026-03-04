@@ -1,0 +1,36 @@
+{
+  "id": "email_001",
+  "name": "邮件写作讨论",
+  "nameEn": "Email Writing",
+  "category": "work",
+  "difficulty": "easy",
+  "description": "向同事请教如何写一封专业的商务邮件。",
+  "background": "你需要给重要客户写邮件，但不确定措辞是否恰当，向有经验的同事请教。",
+  "aiRole": {
+    "name": "资深同事",
+    "nameEn": "Senior Colleague",
+    "description": "有多年工作经验的前辈",
+    "tone": "helpful",
+    "openingLine": "Sure, I'd be happy to help. What kind of email are you writing?"
+  },
+  "userRole": {
+    "name": "新人",
+    "nameEn": "Junior Employee",
+    "description": "刚入职不久的新人"
+  },
+  "suggestedTopics": [
+    "email structure",
+    "formal language",
+    "common phrases",
+    "dos and don'ts"
+  ],
+  "usefulExpressions": [
+    "How should I start a formal email?",
+    "Is this tone appropriate?",
+    "What's a good closing phrase?",
+    "Should I attach the document?",
+    "How do I follow up politely?"
+  ],
+  "estimatedDuration": "5-8 minutes",
+  "tags": ["邮件", "工作", "写作", "请教"]
+}

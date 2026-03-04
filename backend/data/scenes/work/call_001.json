@@ -1,0 +1,36 @@
+{
+  "id": "call_001",
+  "name": "电话会议",
+  "nameEn": "Conference Call",
+  "category": "work",
+  "difficulty": "medium",
+  "description": "与海外客户进行电话会议，讨论合作细节。",
+  "background": "你正在与一位美国客户进行电话会议，讨论产品定制需求。",
+  "aiRole": {
+    "name": "客户",
+    "nameEn": "Client",
+    "description": "美国公司的采购负责人",
+    "tone": "friendly",
+    "openingLine": "Hi! Thanks for taking the call. Let's discuss the customization requirements."
+  },
+  "userRole": {
+    "name": "销售代表",
+    "nameEn": "Sales Representative",
+    "description": "负责客户对接的销售"
+  },
+  "suggestedTopics": [
+    "product specifications",
+    "quantity and price",
+    "delivery time",
+    "payment terms"
+  ],
+  "usefulExpressions": [
+    "Could you clarify your requirements for...?",
+    "Based on your needs, we recommend...",
+    "The lead time would be approximately...",
+    "Our price is competitive because...",
+    "Let me confirm the details..."
+  ],
+  "estimatedDuration": "10-15 minutes",
+  "tags": ["电话", "工作", "客户", "销售"]
+}

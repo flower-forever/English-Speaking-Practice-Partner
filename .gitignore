@@ -1,0 +1,92 @@
+# ========================
+# Python / Backend
+# ========================
+
+# Virtual environment
+backend/venv/
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Environment variables (contains API keys!)
+.env
+backend/.env
+
+# Pytest cache
+.pytest_cache/
+backend/.pytest_cache/
+
+# User-uploaded voice files (contain personal audio)
+backend/data/voices/
+backend/data/voice_roles.json
+
+# Temporary test files
+backend/test_tts.py
+backend/verify_apis.py
+backend/test_api.py
+backend/test_ws.py
+
+# ========================
+# Node.js / Frontend
+# ========================
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+dist/
+dist-ssr/
+frontend/dist/
+
+# Local env files
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+$null
+
+# ========================
+# Misc
+# ========================
+
+# Demo audio files (not needed in repo)
+demo.mp3
+
+# Gemini / AI tool configs
+.glutra/
+.golutra/
+
+# Cypress screenshots & videos
+frontend/cypress/screenshots/
+frontend/cypress/videos/
+
+# Testing reports (generated, not source)
+backend/testing_report.md

@@ -1,0 +1,36 @@
+{
+  "id": "class_001",
+  "name": "课堂讨论",
+  "nameEn": "Class Discussion",
+  "category": "study",
+  "difficulty": "medium",
+  "description": "在英语课上参与小组讨论，表达你的观点。",
+  "background": "教授提出了一个话题，你和同学需要分组讨论并分享观点。",
+  "aiRole": {
+    "name": "同学",
+    "nameEn": "Classmate",
+    "description": "同组的同学，正在一起讨论",
+    "tone": "casual",
+    "openingLine": "So, what do you think about this topic?"
+  },
+  "userRole": {
+    "name": "学生",
+    "nameEn": "Student",
+    "description": "参与讨论的学生"
+  },
+  "suggestedTopics": [
+    "your opinion",
+    "supporting arguments",
+    "examples",
+    "counterarguments"
+  ],
+  "usefulExpressions": [
+    "In my opinion...",
+    "I agree/disagree because...",
+    "For example...",
+    "From my perspective...",
+    "That's a good point, but..."
+  ],
+  "estimatedDuration": "5-10 minutes",
+  "tags": ["课堂", "学习", "讨论", "观点"]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "interview_001",
+  "name": "面试自我介绍",
+  "nameEn": "Self Introduction",
+  "category": "work",
+  "difficulty": "medium",
+  "description": "你正在参加一家外企的面试，面试官请你做一个简单的自我介绍。",
+  "background": "这是一家知名的跨国公司，你非常希望得到这个工作机会。现在是第一轮面试，面试官是 HR 经理。",
+  "aiRole": {
+    "name": "面试官",
+    "nameEn": "HR Interviewer",
+    "description": "专业、友好的 HR 经理，正在寻找合适的候选人",
+    "tone": "professional",
+    "openingLine": "Hello! Thank you for coming today. Please introduce yourself briefly."
+  },
+  "userRole": {
+    "name": "求职者",
+    "nameEn": "Job Applicant",
+    "description": "参加面试的求职者"
+  },
+  "suggestedTopics": [
+    "education background",
+    "work experience",
+    "strengths and weaknesses",
+    "why this company",
+    "career goals"
+  ],
+  "usefulExpressions": [
+    "I graduated from [University] with a degree in [Major].",
+    "I have ... years of experience in [Field].",
+    "My greatest strength is...",
+    "I'm looking for an opportunity to grow in...",
+    "I believe I'm a good fit because..."
+  ],
+  "estimatedDuration": "3-5 minutes",
+  "tags": ["面试", "工作", "自我介绍", "HR"]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "library_001",
+  "name": "图书馆咨询",
+  "nameEn": "Library Help",
+  "category": "study",
+  "difficulty": "easy",
+  "description": "在图书馆寻找资料，向管理员求助。",
+  "background": "你需要找一本参考书，但不知道在哪里，向图书馆管理员求助。",
+  "aiRole": {
+    "name": "图书管理员",
+    "nameEn": "Librarian",
+    "description": "热心帮助学生的管理员",
+    "tone": "helpful",
+    "openingLine": "Hello! How can I help you today?"
+  },
+  "userRole": {
+    "name": "学生",
+    "nameEn": "Student",
+    "description": "需要找书的学生"
+  },
+  "suggestedTopics": [
+    "book location",
+    "borrowing rules",
+    "due date",
+    "renewal"
+  ],
+  "usefulExpressions": [
+    "I'm looking for a book about...",
+    "Where can I find...?",
+    "How long can I borrow it?",
+    "Can I renew it online?",
+    "What's the due date?"
+  ],
+  "estimatedDuration": "3-5 minutes",
+  "tags": ["图书馆", "学习", "求助", "借书"]
+}

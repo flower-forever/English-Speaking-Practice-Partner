@@ -1,0 +1,36 @@
+{
+  "id": "meeting_001",
+  "name": "商务会议发言",
+  "nameEn": "Business Meeting",
+  "category": "work",
+  "difficulty": "hard",
+  "description": "在项目进度会议上，你需要汇报工作进展并提出问题。",
+  "background": "这是一个跨部门的项目周会，你需要向团队和领导汇报你负责的部分。",
+  "aiRole": {
+    "name": "项目经理",
+    "nameEn": "Project Manager",
+    "description": "负责整个项目的进度和协调",
+    "tone": "professional",
+    "openingLine": "Let's start with your progress update. How is your part going?"
+  },
+  "userRole": {
+    "name": "项目成员",
+    "nameEn": "Team Member",
+    "description": "负责项目某个模块的成员"
+  },
+  "suggestedTopics": [
+    "current progress",
+    "challenges faced",
+    "next steps",
+    "help needed"
+  ],
+  "usefulExpressions": [
+    "I've completed about ... percent of the work.",
+    "We're on track to finish by...",
+    "One challenge we're facing is...",
+    "We might need support from... team.",
+    "The next milestone is..."
+  ],
+  "estimatedDuration": "5-8 minutes",
+  "tags": ["会议", "工作", "汇报", "项目"]
+}

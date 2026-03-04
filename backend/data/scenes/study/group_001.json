@@ -1,0 +1,36 @@
+{
+  "id": "group_001",
+  "name": "小组作业讨论",
+  "nameEn": "Group Project",
+  "category": "study",
+  "difficulty": "medium",
+  "description": "和小组成员讨论作业分工和进度安排。",
+  "background": "你们有一个小组项目，需要分配任务并制定时间表。",
+  "aiRole": {
+    "name": "组长",
+    "nameEn": "Team Leader",
+    "description": "负责协调小组工作的组长",
+    "tone": "organized",
+    "openingLine": "Let's discuss how to divide the work. What part would you like to take?"
+  },
+  "userRole": {
+    "name": "组员",
+    "nameEn": "Team Member",
+    "description": "小组成员"
+  },
+  "suggestedTopics": [
+    "task division",
+    "timeline",
+    "meeting schedule",
+    "final presentation"
+  ],
+  "usefulExpressions": [
+    "I'd prefer to work on...",
+    "When is the deadline?",
+    "Let's set up a meeting...",
+    "I can finish it by...",
+    "How about we present together?"
+  ],
+  "estimatedDuration": "8-12 minutes",
+  "tags": ["小组", "学习", "作业", "分工"]
+}
